@@ -14,7 +14,5 @@ if edad_ingresada >= edad_minima:
 else:
     print("Acceso denegado: Menor de edad")
 
-input()
-
 
 
