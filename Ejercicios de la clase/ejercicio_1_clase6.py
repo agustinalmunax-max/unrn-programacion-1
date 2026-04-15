@@ -1,5 +1,5 @@
 Entero = 12
-Decimal: 2.15
+Decimal = 2.15
 Texto = "Hola mundo"
 Verdadero_o_Falso = True
 
